@@ -30,3 +30,13 @@ It also has
 
 ## Process and Thread
 ![image info](./images/02_Process.png)
+
+## Event Loop
+It does the orchestration. Passes on expensive tasks to thread pool
+![image info](./images/03_Event_Loop.png)
+
+
+I/O Polling 
+Network Request and File Access
+
+![image info](./images/04_Loop_Understanding.png)
