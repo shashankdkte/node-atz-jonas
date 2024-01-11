@@ -40,3 +40,6 @@ I/O Polling
 Network Request and File Access
 
 ![image info](./images/04_Loop_Understanding.png)
+
+## Event Driven Architecture
+![image info](./images/05_Event_Driven.png)
